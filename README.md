@@ -7,5 +7,6 @@
 
 ### - Combat -
 
+- [Bosses](bosses.md)
 - [Wolf Upgrades](wolves.md)
 - [Stellarity](stellarity.md)
