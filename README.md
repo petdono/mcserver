@@ -3,6 +3,7 @@
 ### - Uncategorized -
 
 - [Emotes](emotes.md)
+- [Dying](death.md)
 
 ### - Combat -
 
