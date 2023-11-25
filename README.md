@@ -1,4 +1,9 @@
 # WaterfallMC Docs & More
 ## ~ Documentation ~
-### - Basics -
-[Emotes](emotes.md)
+### - Uncategorized -
+
+- [Emotes](emotes.md)
+
+### - Combat -
+
+- [Wolf Upgrades](wolves.md)
