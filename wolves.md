@@ -91,7 +91,3 @@ Bonus "food" upgrade. Gives the wolf permanent speed. Does give off potion parti
 Please use one upgrade at a time as they will all be consumed if thrown at once.
 
 The wolves/dogs get renamed when upgraded, so use nametags after you know you will not upgrade the dog/wolf again.
-
-Please report is I left somewhere "wolfes" instead of "wolves". Wolves is gramatically correct.
-
-All recipes compiled can be found in the image gallery.
