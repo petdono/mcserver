@@ -7,3 +7,4 @@
 ### - Combat -
 
 - [Wolf Upgrades](wolves.md)
+- [Stellarity](stellarity.md)
