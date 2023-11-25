@@ -1,3 +1,3 @@
 # WaterfallMC Docs & More
 ## ~ Documentation ~
-(heres tyhe link)[roblox.com]
+[heres tyhe link](roblox.com)
