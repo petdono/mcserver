@@ -4,6 +4,7 @@
 Mob Captains of  **common, uncommon, rare and legendary difficulty**  will spawn in your world.
 
 The Mob Captains are  **buffed based on their rarity!**
+
 **Common**  
 +50% Max Health  
 +2 Armor  
