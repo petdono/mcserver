@@ -1,4 +1,6 @@
-# Keeping Inventory
+# Death
+
+## Keeping Inventory
 
 When dying, you  **keep all your equipment**  on you while still  **dropping your resources**.
 
