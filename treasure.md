@@ -1,9 +1,5 @@
-
+# Treasure
 Treasures are divided into tiers: Common, Rare, Epic and Legendary, where the chances vary depending on the type of stone the player mines. Treasures are biome-specific, with 21 different biome loot tables. Common Treasures usually have very generic loot and is great for the early game. Rare Treasures step it up a notch and may contain custom items. Epic Treasures contain great loot at the cost of being incredibly rare. Legendary Treasures are the most powerful, capable of holding loot more powerful than Netherite, though at the cost of being the rarest treasure.
-
-In Mine Treasure there are over 100+ custom items, as well as over 200+ advancements added to the game and many new ways to make every biome-type feel more special.
-
-[Click here for a list of items and other information](https://www.mine-treasure.com/loot)
 
 ### Quick Summary
 
