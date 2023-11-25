@@ -10,3 +10,6 @@
 - [Bosses](bosses.md)
 - [Wolf Upgrades](wolves.md)
 - [Stellarity](stellarity.md)
+
+### - Exploration -
+- [Treasure](treasure.md)
