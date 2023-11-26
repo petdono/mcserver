@@ -22,3 +22,9 @@ Your items  **will not splatter**, they all stay at the exact location you died 
 At the location of your death you can collect  **all your experience**  and it is  **not limited**  to about 7 levels, like in vanilla minecraft.
 
 After dying, your  **items will despawn after 10 minutes**  instead of despawning after the normal 5 minutes.
+
+## Souls
+
+> When you die, your "soul" will live on. The soul holds your items, XP, and anything **NOT** kept in your inventory after dying.
+
+**SOULS DESPAWN 5 MINUTES AFTER DEATH.**
