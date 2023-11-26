@@ -27,4 +27,4 @@ After dying, your  **items will despawn after 10 minutes**  instead of despawnin
 
 > When you die, your "soul" will live on. The soul holds your items, XP, and anything **NOT** kept in your inventory after dying.
 
-**SOULS DESPAWN 5 MINUTES AFTER DEATH.**
+**SOULS DESPAWN 5 MINUTES AFTER DEATH.** - Souls will drop their items and the items can be picked up if the chunk is loaded when the soul dies.
